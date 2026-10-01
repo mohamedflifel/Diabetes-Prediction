@@ -1,6 +1,6 @@
 # Diabetes Prediction with AI
 
-
+![app.gif](image/app.gif)
 
 This project demonstrates a machine learning solution for predicting diabetes based on user-provided health data. The application uses **Streamlit** for an interactive web interface and advanced interpretability tools like SHAP and permutation importance to explain model predictions.
 
@@ -17,8 +17,7 @@ This project demonstrates a machine learning solution for predicting diabetes ba
 10. [Project Motivation](#project-motivation)
 11. [Contributing](#contributing)
 12. [License](#license)
-13. [Credits](#credits)
-14. [Contacts](#contacts)
+13. [Contacts](#contacts)
 
 ---
 
@@ -263,19 +262,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Credits
-
-This project was developed collaboratively by:
-- **Mohamed Flifel** ([@mohamedflifel](https://github.com/mohamedflifel))
-- **Abdurakhmon Niyozaliev** ([@UznetDev](https://github.com/UznetDev)), original repository: [UznetDev/Diabetes-Prediction](https://github.com/UznetDev/Diabetes-Prediction)
-
----
-
 ## Contacts
 
 If you have any questions or suggestions, please contact:
 - Email: mohamedflifel2510@gmail.com
-- GitHub Issues: [Issues section](https://github.com/mohamedflifel/Diabetes-Prediction/issues)
 - GitHub Profile: [mohamedflifel](https://github.com/mohamedflifel/)
 - LinkedIn: [Mohamed Flifel](https://www.linkedin.com/in/mohamed-flifel-8a0a213a7)
 
